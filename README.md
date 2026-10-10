@@ -16,7 +16,7 @@ This project simulates a real-world cybersecurity scenario combining **AI-powere
 
 ## 📂 Lab Setup & Solution Guide
 * Detailed step-by-step documentation, terminal commands, and configuration screenshots can be found in the solution PDF included in this repository:
-  - **[View Full Solution Guide (PDF)](./gitdd.pdf)** 
+  - **[View Full Solution Guide (PDF)](./DFIR.pdf)** 
 ---
 
 ## 🛠️ Architecture & Tools
